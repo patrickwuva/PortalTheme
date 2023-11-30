@@ -1,7 +1,7 @@
 # UVa Portal Theme
 Spice up your UVa portal with this bash theme!
 
-<img width="560" alt="Screen Shot 2023-11-30 at 6 38 20 PM" src="https://github.com/patrickwuva/PortalTheme/assets/91228237/7e0f383d-9d8a-456f-818d-65f1e2463f82">
+<img width="568" alt="Screen Shot 2023-11-30 at 6 51 23 PM" src="https://github.com/patrickwuva/PortalTheme/assets/91228237/491919b0-554c-45a1-92f2-9d5e8cda3471">
 
 If you current directory is a github repo the current branch will be displayed in green.
 
