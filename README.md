@@ -19,4 +19,5 @@ If you want to revert back to the original .bashrc file:
 
 ## Resources
 https://wiki.archlinux.org/title/Bash/Prompt_customization
+
 https://www.baeldung.com/linux/customize-bash-prompt
