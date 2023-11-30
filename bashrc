@@ -10,7 +10,8 @@ ps1_func(){
     if [[ "$(pwd)" == "$HOME" ]]; then
         PS1="${BOLD}${BLUE}[ ${CYAN}base ${BLUE}]\n ${CYAN}►${RESET} "
     else
-        if [ -d ".git/" ]; then
+        o=$(git rev-parse --abbrev-ref HEAD)
+        if [ "${o:0:5}" ]; then
             PS1="${BOLD}${BLUE}[ ${CYAN}\W ${BLUE}] ${BLUE}[${BOLD}${GREEN}$(git rev-parse --abbrev-ref HEAD)${BLUE}]\n ${CYAN}►${RESET} "
         else
             PS1="${BOLD}${BLUE}[ ${CYAN}\W ${BLUE}]\n ${CYAN}►${RESET} "
