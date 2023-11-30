@@ -2,7 +2,7 @@
 Spice up your UVa portal with this theme
 
 ## Installation
-Run this command in your Uva portal \n
+Run this command in your Uva portal
 ```mv $HOME/.bashrc .bashrc.bkp; wget -O $HOME/.bashrc https://raw.githubusercontent.com/patrickwuva/PortalTheme/main/bashrc; source . ~/.bashrc```
 
 ## Uninstall
