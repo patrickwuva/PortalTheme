@@ -1,5 +1,5 @@
-# UVa Portal Theme
-Spice up your UVa portal with this bash theme!
+# UVA Portal Theme
+Spice up your CS portal with this bash theme!
 
 <img width="568" alt="Screen Shot 2023-11-30 at 6 51 23 PM" src="https://github.com/patrickwuva/PortalTheme/assets/91228237/491919b0-554c-45a1-92f2-9d5e8cda3471">
 
